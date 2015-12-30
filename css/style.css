@@ -472,7 +472,7 @@ a {
 .small-title, .box-link {
   font-family: "brandon-grotesque", sans-serif;
   font-size: 0.9375rem;
-  color: #ffffff;
+  color: red;
   line-height: 1.4em;
   text-transform: uppercase;
   font-weight: normal;
